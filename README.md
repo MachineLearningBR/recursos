@@ -41,6 +41,15 @@ Se tiver alguma dica é só mandar o PR.
 
 ## Livros
 
+Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Data Science, são eles:
+
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+
+- [Mastering Machine Learning with scikit-learn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn)
+
+- [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
+
+
 
 
 
