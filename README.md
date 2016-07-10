@@ -39,6 +39,10 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Coursera Machine Learning - Andrew Ng - Stanford](https://www.coursera.org/learn/machine-learning)
 
+- [Machine Learning Specialization - University of Washington](https://www.coursera.org/specializations/machine-learning)
+
+- [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)
+
 ## Livros
 
 Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Data Science, são eles:
@@ -49,7 +53,6 @@ Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Da
 
 - [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
 
+- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 
-
-
-
+- [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do?green=29054618-1EA1-52FA-9959-B510183F05DE&intcmp=af-mybuy-0636920035091.IP)
