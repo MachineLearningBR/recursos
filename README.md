@@ -26,6 +26,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Data Science Central](http://www.datasciencecentral.com/)
 
+- [Data School](http://www.dataschool.io/)
+
 ## Podcasts
 
 - [Dev na estrada #56 - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)
@@ -34,6 +36,9 @@ Se tiver alguma dica é só mandar o PR.
 
 ## Vídeos
 
+- [PyData London - Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
+
+- [Machine Learning - Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 
 ## Cursos
 
