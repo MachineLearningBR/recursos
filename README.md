@@ -28,6 +28,10 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Data School](http://www.dataschool.io/)
 
+- [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+
+- [Sebastian Raschka Blog](http://sebastianraschka.com/blog/)
+
 ## Podcasts
 
 - [Dev na estrada #56 - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)
