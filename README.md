@@ -65,3 +65,6 @@ Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Da
 - [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 
 - [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do?green=29054618-1EA1-52FA-9959-B510183F05DE&intcmp=af-mybuy-0636920035091.IP)
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (disponível online)
+
