@@ -34,6 +34,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)
 
+- [Talking Machines](http://www.thetalkingmachines.com)
+
 ## Vídeos
 
 - [PyData London - Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
