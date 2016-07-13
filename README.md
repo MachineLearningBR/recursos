@@ -28,6 +28,10 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Data School](http://www.dataschool.io/)
 
+- [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+
+- [Sebastian Raschka Blog](http://sebastianraschka.com/blog/)
+
 ## Podcasts
 
 - [Dev na estrada #56 - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)
@@ -61,3 +65,6 @@ Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Da
 - [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 
 - [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do?green=29054618-1EA1-52FA-9959-B510183F05DE&intcmp=af-mybuy-0636920035091.IP)
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (disponível online)
+
