@@ -24,6 +24,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Blog do Mario Filho](http://mariofilho.com/)
 
+- [Blog Data Science Academy](http://datascienceacademy.com.br/blog/)
+
 ### EN
 
 - [Dataquest.io](https://www.dataquest.io/blog/)
@@ -65,6 +67,8 @@ Se tiver alguma dica é só mandar o PR.
 ### PT-BR
 
 - [Aprendizado de Máquina - Prof. Fabricio Olivetti - UFABC](https://sites.google.com/site/fabricioolivetti/courses/aprendizado-de-maquina)
+
+- [Data Science Academy](http://www.datascienceacademy.com.br/)
 
 ### EN
 
