@@ -20,6 +20,12 @@ Se tiver alguma dica é só mandar o PR.
 
 ## Blogs
 
+### PT-BR
+
+- [Blog do Mario Filho](http://mariofilho.com/)
+
+### EN
+
 - [Dataquest.io](https://www.dataquest.io/blog/)
 
 - [KDNuggets](http://www.kdnuggets.com/)
@@ -34,9 +40,15 @@ Se tiver alguma dica é só mandar o PR.
 
 ## Podcasts
 
+### PT-BR
+
 - [Dev na estrada #56 - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)
 
 - [Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)
+
+### EN
+
+- [Post no blog Control-Aut com dicas de vários podcasts](http://control-aut.com/2015/04/23/podcasts-data-science-machine-learning-e-artificial-intelligence/)
 
 - [Talking Machines](http://www.thetalkingmachines.com)
 
@@ -46,7 +58,15 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Machine Learning - Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 
+- [Introduction to machine learning in Python with scikit-learn (video series)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+
 ## Cursos
+
+### PT-BR
+
+- [Aprendizado de Máquina - Prof. Fabricio Olivetti - UFABC](https://sites.google.com/site/fabricioolivetti/courses/aprendizado-de-maquina)
+
+### EN
 
 - [Coursera Machine Learning - Andrew Ng - Stanford](https://www.coursera.org/learn/machine-learning)
 
