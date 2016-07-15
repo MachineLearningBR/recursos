@@ -94,3 +94,4 @@ Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Da
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (disponível online)
 
+- [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)(Ebook grátis on-line)
