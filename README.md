@@ -91,7 +91,7 @@ Se tiver alguma dica é só mandar o PR.
 ### EN
 | Name | Platform | Author |
 | :---: | :---: | :---: |
-| [Coursera Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)|[Coursera](https://www.coursera.org/)|`Andrew Ng`|
+| [Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)|[Coursera](https://www.coursera.org/)|`Andrew Ng`|
 | [Machine Learning Specialization - University of Washington](https://www.coursera.org/specializations/machine-learning)|[Coursera](https://www.coursera.org/)|`Carlos Guestrin, Emily Fox`|
 | [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)|[EDX](https://www.edx.org)|`Anthony D. Joseph, Ameet Talwalkar, Jon Bates`|
 | [Machine Learning Course - CS 156 - Caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A)|[Youtube](https://www.youtube.com)|`Professor Yaser Abu-Mostafas`|
