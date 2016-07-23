@@ -83,13 +83,13 @@ Se tiver alguma dica é só mandar o PR.
 ## Cursos
 
 ### PT-BR
-| Name | Plataforma | Author |
+| Name | Platform | Author |
 | :---: | :---: | :---: |
 | [Aprendizado de Máquina - UFABC](https://sites.google.com/site/fabricioolivetti/courses/aprendizado-de-maquina)||`Prof. Fabricio Olivetti`|
 | [Machine Learning](http://www.datascienceacademy.com.br/pages/curso-machine-learning/)|[Data Science Academy](http://www.datascienceacademy.com.br/)||
 
 ### EN
-| Name | Plataforma | Author |
+| Name | Platform | Author |
 | :---: | :---: | :---: |
 | [Coursera Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)|[Coursera](https://www.coursera.org/)|`Andrew Ng`|
 | [Machine Learning Specialization - University of Washington](https://www.coursera.org/specializations/machine-learning)|[Coursera](https://www.coursera.org/)|`Carlos Guestrin, Emily Fox`|
