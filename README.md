@@ -15,15 +15,9 @@ Se tiver alguma dica é só mandar o PR.
   * [Grupos](#grupos)
   * [Por onde começar?](#por-onde-começar)
   * [Blogs](#blogs)
-    * [PT-BR](#pt-br)
-    * [EN](#en)
   * [Podcasts](#podcasts)
-    * [PT-BR](#pt-br)
-    * [EN](#en)
   * [Vídeos](#vídeos)
   * [Cursos](#cursos)
-    * [PT-BR](#pt-br)
-    * [EN](#en)
   * [Livros](#livros)
 
 <!-- toc stop -->
