@@ -100,16 +100,12 @@ Se tiver alguma dica é só mandar o PR.
 
 Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Data Science, são eles:
 
-- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
-
-- [Mastering Machine Learning with scikit-learn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn)
-
-- [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
-
-- [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
-
-- [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do?green=29054618-1EA1-52FA-9959-B510183F05DE&intcmp=af-mybuy-0636920035091.IP)
-
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (disponível online)
-
-- [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)(Ebook grátis on-line)
+| Name | Author |
+| :---: | :---: |
+| [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do) | `Joel Grus` |
+| [Mastering Machine Learning with scikit-learn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn) | `Gavin Hackeling` |
+| [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) | `Sebastian Raschka` |
+| [Learning Spark](http://shop.oreilly.com/product/0636920028512.do) | `Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia` |
+| [[Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do?green=29054618-1EA1-52FA-9959-B510183F05DE&intcmp=af-mybuy-0636920035091.IP) | `Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills` |
+| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (disponível online) | `Michael Nielsen` |
+| [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (Ebook grátis on-line)| `Ron Zacharski` |
