@@ -84,13 +84,13 @@ Se tiver alguma dica é só mandar o PR.
 
 ### PT-BR
 | Name | Platform | Author |
-| :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | [Aprendizado de Máquina - UFABC](https://sites.google.com/site/fabricioolivetti/courses/aprendizado-de-maquina)||`Prof. Fabricio Olivetti`|
 | [Machine Learning](http://www.datascienceacademy.com.br/pages/curso-machine-learning/)|[Data Science Academy](http://www.datascienceacademy.com.br/)||
 
 ### EN
 | Name | Platform | Author |
-| :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)|[Coursera](https://www.coursera.org/)|`Andrew Ng`|
 | [Machine Learning Specialization - University of Washington](https://www.coursera.org/specializations/machine-learning)|[Coursera](https://www.coursera.org/)|`Carlos Guestrin, Emily Fox`|
 | [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)|[EDX](https://www.edx.org)|`Anthony D. Joseph, Ameet Talwalkar, Jon Bates`|
@@ -103,7 +103,7 @@ Se tiver alguma dica é só mandar o PR.
 Alguns livros oferecem uma boa introdução a Machine Learning e conceitos de Data Science, são eles:
 
 | Name | Author |
-| :---: | :---: |
+| :--- | :---: |
 | [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do) | `Joel Grus` |
 | [Mastering Machine Learning with scikit-learn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn) | `Gavin Hackeling` |
 | [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) | `Sebastian Raschka` |
