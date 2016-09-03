@@ -74,12 +74,17 @@ Se tiver alguma dica é só mandar o PR.
 
 ## Vídeos
 
+- [Getting Started with Machine Learning and Python - Hangout com Bruno Godoi Eilliar](https://www.youtube.com/watch?v=rCsbaHhvxfI)
+
 - [PyData London - Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Machine Learning - Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 
 - [Introduction to machine learning in Python with scikit-learn (video series)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+
 - [Machine Learning Porto Alegre](https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A)
+
+
 
 ## Cursos
 
