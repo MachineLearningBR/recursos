@@ -79,6 +79,7 @@ Se tiver alguma dica é só mandar o PR.
 - [Machine Learning - Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 
 - [Introduction to machine learning in Python with scikit-learn (video series)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+- [Machine Learning Porto Alegre](https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A)
 
 ## Cursos
 
