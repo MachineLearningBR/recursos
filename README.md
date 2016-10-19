@@ -92,6 +92,7 @@ Se tiver alguma dica é só mandar o PR.
 | Name | Platform | Author |
 | :--- | :---: | :---: |
 | [Aprendizado de Máquina - UFABC](https://sites.google.com/site/fabricioolivetti/courses/aprendizado-de-maquina)||`Prof. Fabricio Olivetti`|
+| [Data Science: do Dado à Tomada de Decisão](https://www.udemy.com/data-science-para-desenvolvedor-do-dado-a-tomada-de-decisao/)|[Udemy](https://www.udemy.com)|`Hekima`|
 | [Machine Learning](http://www.datascienceacademy.com.br/pages/curso-machine-learning/)|[Data Science Academy](http://www.datascienceacademy.com.br/)||
 
 ### EN
