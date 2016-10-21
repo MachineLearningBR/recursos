@@ -72,6 +72,9 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Talking Machines](http://www.thetalkingmachines.com)
 
+## Projetos para contribuir e acompanhar
+- [Serenata de Amor](http://serenata.datasciencebr.com/)
+
 ## Vídeos
 
 - [Getting Started with Machine Learning and Python - Hangout com Bruno Godoi Eilliar](https://www.youtube.com/watch?v=rCsbaHhvxfI)
