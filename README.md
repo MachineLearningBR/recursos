@@ -1,4 +1,4 @@
-# Recursos sobre Machine Learning
+# Recursos sobre Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Neste repositório você encontrará recursos sobre Machine Learning como Blogs, posts interessantes, cursos, videos, podcasts e muito mais.
 
