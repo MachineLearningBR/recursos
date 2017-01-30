@@ -12,8 +12,10 @@ Se tiver alguma dica é só mandar o PR.
 -->
 
 <!-- toc -->
+
   * [Grupos](#grupos)
   * [Por onde começar?](#por-onde-começar)
+  * [Canais Youtube](#canais-youtube)
   * [Blogs](#blogs)
   * [Podcasts](#podcasts)
   * [Vídeos](#vídeos)
@@ -35,6 +37,20 @@ Se tiver alguma dica é só mandar o PR.
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/)
 
 - [Data Science, por onde começar](https://inspiradanacomputacao.github.io/aprender/data-science-por-onde-comecar-parte1/)
+
+## Canais Youtube
+
+### PT-BR
+
+- [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
+
+### EN
+
+- [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A)
+
+- [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+- [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 
 ## Blogs
 
@@ -73,6 +89,10 @@ Se tiver alguma dica é só mandar o PR.
 - [Talking Machines](http://www.thetalkingmachines.com)
 
 ## Vídeos
+
+- [BIG DATA | Nerdologia 40 ](https://youtu.be/hEFFCKxYbKM)
+
+- [O computador ou o cérebro, quem é o mais potente? | Nerdologia 141 ](https://youtu.be/F6XGm0W0xQc)
 
 - [PyData London - Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
 
