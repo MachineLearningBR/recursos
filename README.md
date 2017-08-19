@@ -66,6 +66,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)
 
+- [Castálio #108 - Data Science e Machine Learning](http://castalio.info/episodio-108-data-science-e-machine-learning.html)
+
 ### EN
 
 - [Post no blog Control-Aut com dicas de vários podcasts](http://control-aut.com/2015/04/23/podcasts-data-science-machine-learning-e-artificial-intelligence/)
