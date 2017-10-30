@@ -68,6 +68,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Castálio #108 - Data Science e Machine Learning](http://castalio.info/episodio-108-data-science-e-machine-learning.html)
 
+- [Data Science e Política na Operação Serenata de Amor – Hipsters #62](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)
+
 ### EN
 
 - [Post no blog Control-Aut com dicas de vários podcasts](http://control-aut.com/2015/04/23/podcasts-data-science-machine-learning-e-artificial-intelligence/)
