@@ -30,6 +30,8 @@ Se tiver alguma dica é só mandar o PR.
 
 - [Facebook - Data Science e Machine Learning](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
 
+- [Telegram - DataSciencePython](https://t.me/datasciencepython)
+
 ## Por onde começar?
 
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/)
